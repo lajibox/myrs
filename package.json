@@ -1,0 +1,17 @@
+{
+  "name" : "myapp",
+  "version" : "0.1.0",
+  "main" : "myapp.js",
+  "scripts" : {
+    "start" : "node myapp.js"
+  },
+  "engines" : {
+    "node" : "~4.0"
+  },
+  "dependencies": {
+    "express": "^4.4.5",
+    "ws": "0.4.x"
+
+  }
+
+}
